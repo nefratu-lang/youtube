@@ -1,0 +1,5 @@
+{
+  "name": "Outdoor EduTube",
+  "description": "An interactive video learning platform that turns YouTube videos into quizzes using Gemini.",
+  "requestFramePermissions": []
+}
